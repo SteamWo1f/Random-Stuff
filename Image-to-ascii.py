@@ -24,4 +24,4 @@ def image_to_ascii(image_file):
             f.write("\n".join("".join(new_image[i:i+80]) for i in range(0, len(new_image), 80)))
 
 
-image_to_ascii("85211822.png")
+image_to_ascii("test.png")
