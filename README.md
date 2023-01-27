@@ -18,3 +18,6 @@
 
 #### TTS
 > A simple text-to-speech program with two voices currently available, allowing you to adjust the voice speed for a more natural-sounding output.
+
+#### Chess
+> A simple GUI program that allows users to easily access various chess websites by opening a menu with different buttons. Each button, when clicked, opens a new window containing the corresponding website.
